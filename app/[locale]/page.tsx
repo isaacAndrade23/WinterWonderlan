@@ -131,7 +131,7 @@ export default function Home() {
           <div className="mb-12 flex justify-center">
             <div className="relative h-24 w-48">
               <Image
-                src="/logos/logo-principal.png"
+                src="/logos/insurance-logo.png"
                 alt="Sponsor Principal"
                 fill
                 className="object-contain"
@@ -142,7 +142,7 @@ export default function Home() {
           <div className="mx-auto flex max-w-5xl flex-wrap items-center justify-center gap-x-12 gap-y-8 md:gap-x-16">
             <div className="relative h-16 w-36">
               <Image
-                src="/logos/logo-secundario-1.png" // <-- CAMBIA ESTO
+                src="/logos/winter-logo.png"
                 alt="Sponsor Logo"
                 fill
                 className="object-contain"
@@ -151,7 +151,7 @@ export default function Home() {
 
             <div className="relative h-16 w-36">
               <Image
-                src="/logos/logo-secundario-2.png"
+                src="/logos/winter-logo.png"
                 alt="Sponsor Logo"
                 fill
                 className="object-contain"
@@ -160,7 +160,7 @@ export default function Home() {
 
             <div className="relative h-16 w-36">
               <Image
-                src="/logos/logo-secundario-3.png"
+                src="/logos/winter-logo.png"
                 alt="Sponsor Logo"
                 fill
                 className="object-contain"
@@ -169,7 +169,7 @@ export default function Home() {
 
             <div className="relative h-16 w-36">
               <Image
-                src="/logos/logo-secundario-4.png"
+                src="/logos/winter-logo.png"
                 alt="Sponsor Logo"
                 fill
                 className="object-contain"
@@ -178,7 +178,7 @@ export default function Home() {
 
             <div className="relative h-16 w-36">
               <Image
-                src="/logos/logo-secundario-5.png"
+                src="/logos/winter-logo.png"
                 alt="Sponsor Logo"
                 fill
                 className="object-contain"

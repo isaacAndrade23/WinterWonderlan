@@ -1,0 +1,9 @@
+{
+  "Navbar": {
+    "home": "Inicio",
+    "contact": "Ponerse en Contacto"
+  },
+  "Hero": {
+    "title": "Bienvenido al Proyecto Invierno"
+  }
+}
